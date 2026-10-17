@@ -1,0 +1,1 @@
+pickle.dump(cv, open('cv.pkl', 'wb'))
